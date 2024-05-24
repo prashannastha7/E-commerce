@@ -1,0 +1,11 @@
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\bin\Debug\net8.0\ShopSharedLibrary.deps.json
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\bin\Debug\net8.0\ShopSharedLibrary.dll
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\bin\Debug\net8.0\ShopSharedLibrary.pdb
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\obj\Debug\net8.0\ShopSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\obj\Debug\net8.0\ShopSharedLibrary.AssemblyInfoInputs.cache
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\obj\Debug\net8.0\ShopSharedLibrary.AssemblyInfo.cs
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\obj\Debug\net8.0\ShopSharedLibrary.csproj.CoreCompileInputs.cache
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\obj\Debug\net8.0\ShopSharedLibrary.dll
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\obj\Debug\net8.0\refint\ShopSharedLibrary.dll
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\obj\Debug\net8.0\ShopSharedLibrary.pdb
+A:\Study\E-commerce\E-commerceWebsite\ShopSharedLibrary\obj\Debug\net8.0\ref\ShopSharedLibrary.dll
